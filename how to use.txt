@@ -1,0 +1,2 @@
+[DllImport("LoadDllTool")]
+    static extern string LoadLibraryTool(string s, string s1, string s2);
